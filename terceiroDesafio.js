@@ -23,7 +23,6 @@ class Heroi {
   }
 }
 
-// Exemplos de uso:
 
 const heroi1 = new Heroi("Seya", 30, "guerreiro");
 const heroi2 = new Heroi("Harry", 150, "mago");
